@@ -1,0 +1,15 @@
+C:\Users\thiag\Github\ListasLp1\Lista3\excustoenergia\bin\Debug\net9.0\excustoenergia.exe
+C:\Users\thiag\Github\ListasLp1\Lista3\excustoenergia\bin\Debug\net9.0\excustoenergia.deps.json
+C:\Users\thiag\Github\ListasLp1\Lista3\excustoenergia\bin\Debug\net9.0\excustoenergia.runtimeconfig.json
+C:\Users\thiag\Github\ListasLp1\Lista3\excustoenergia\bin\Debug\net9.0\excustoenergia.dll
+C:\Users\thiag\Github\ListasLp1\Lista3\excustoenergia\bin\Debug\net9.0\excustoenergia.pdb
+C:\Users\thiag\Github\ListasLp1\Lista3\excustoenergia\obj\Debug\net9.0\excustoenergia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Github\ListasLp1\Lista3\excustoenergia\obj\Debug\net9.0\excustoenergia.AssemblyInfoInputs.cache
+C:\Users\thiag\Github\ListasLp1\Lista3\excustoenergia\obj\Debug\net9.0\excustoenergia.AssemblyInfo.cs
+C:\Users\thiag\Github\ListasLp1\Lista3\excustoenergia\obj\Debug\net9.0\excustoenergia.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Github\ListasLp1\Lista3\excustoenergia\obj\Debug\net9.0\excustoenergia.sourcelink.json
+C:\Users\thiag\Github\ListasLp1\Lista3\excustoenergia\obj\Debug\net9.0\excustoenergia.dll
+C:\Users\thiag\Github\ListasLp1\Lista3\excustoenergia\obj\Debug\net9.0\refint\excustoenergia.dll
+C:\Users\thiag\Github\ListasLp1\Lista3\excustoenergia\obj\Debug\net9.0\excustoenergia.pdb
+C:\Users\thiag\Github\ListasLp1\Lista3\excustoenergia\obj\Debug\net9.0\excustoenergia.genruntimeconfig.cache
+C:\Users\thiag\Github\ListasLp1\Lista3\excustoenergia\obj\Debug\net9.0\ref\excustoenergia.dll
